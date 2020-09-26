@@ -21,6 +21,7 @@ OUTPUT of Question 1:
   <image src ="output image/IMG_4182.JPG">
   <br>
   
-   
+ OUTPUT OF QUESTION 3:
  
+ <image src ="output image/IMG_4457.JPG">
  
