@@ -18,7 +18,7 @@ OUTPUT of Question 1:
   <br>
   
   PART-C
-  <image src ="output image/IMG_4182.JPG">
+  <image src ="output image/IMG_4183.JPG">
   <br>
   
  OUTPUT OF QUESTION 3:
