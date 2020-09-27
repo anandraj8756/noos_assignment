@@ -1,7 +1,7 @@
 # noos_assignment
-This is the machine learning assignment given by  NOOS TECHNOLOGIES PVT LTD 2020
+This is the machine learning assignment given by  [NOOS TECHNOLOGIES PVT LTD 2020](https://www.noostechnologies.com)
 
-[You can download the question paper here](https://docs.google.com/document/d/1G39v-A2zNr20DGWIodXSDFPPOpQIFNutns-thc7wwQk/edit#)
+[You can download the assignment here](https://docs.google.com/document/d/1G39v-A2zNr20DGWIodXSDFPPOpQIFNutns-thc7wwQk/edit#)
 
 OUTPUT of Question 1:
 
